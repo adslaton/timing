@@ -1,6 +1,6 @@
 # Timing
 
-A client timing module to passes timing data to an endpoint
+A client timing module that passes timing data to an endpoint
 
 ## Example
 
